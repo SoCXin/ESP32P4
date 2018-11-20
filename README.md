@@ -1,12 +1,22 @@
-﻿[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
-
-# RDA
-
-## 简介
+﻿# [RDA](https://github.com/mcuyun/RDA) 
 
 国货精品，品类齐全，超高性价比
 
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+
 ---
+
+## 工程内容
+
+#### tools
+
+包括相关工具
+
+---
+
+## 相关产品
 
 #### RDA8810
 
@@ -18,9 +28,6 @@ https://github.com/mcuyun/RDA8810.git
 
 - RDA的NB产品线
 
-
-https://github.com/mcuyun/RDA8810.git
-
 ####  RDA5981
 
 - 实惠好用的WIFI芯片，具有极低的价格和强劲的性能
@@ -29,7 +36,8 @@ https://github.com/mcuyun/RDA5981.git
 
 ---
 
-### 说明
+为锻造最美之器
 
-2018-10-21: 创建工程仓库
+###  www.mcuyun.com   |    qitas@qitas.cn
+
 
