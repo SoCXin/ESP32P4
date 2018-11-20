@@ -1,0 +1,14 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os\features\net\netsocket\nsapi_dns.cpp
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os\features\net\netsocket\nsapi_dns.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os\features\net\netsocket\nsapi_types.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/features/net/netsocket/NetworkStack.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/features/net/netsocket/SocketAddress.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/hal/api/toolchain.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/features/net/netsocket/NetworkInterface.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/features/net/netsocket/UDPSocket.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/features/net/netsocket/Socket.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/rtos/rtos/Mutex.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/rtos/rtx/TARGET_CORTEX_M/cmsis_os.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/hal/api/Callback.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\net\netsocket\nsapi_dns.o: ../mbed-os/rtos/rtos/Semaphore.h

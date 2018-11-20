@@ -1,0 +1,2 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\targets\cmsis\TARGET_RDA\TARGET_UNO_91H\TOOLCHAIN_ARM_STD\sys.o: ../mbed-os\hal\targets\cmsis\TARGET_RDA\TARGET_UNO_91H\TOOLCHAIN_ARM_STD\sys.cpp
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\targets\cmsis\TARGET_RDA\TARGET_UNO_91H\TOOLCHAIN_ARM_STD\sys.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h

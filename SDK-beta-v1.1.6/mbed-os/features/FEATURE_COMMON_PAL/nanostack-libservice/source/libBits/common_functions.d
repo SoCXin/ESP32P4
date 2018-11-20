@@ -1,0 +1,4 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libBits\common_functions.o: ../mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libBits\common_functions.c
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libBits\common_functions.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libBits\common_functions.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/common_functions.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libBits\common_functions.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h

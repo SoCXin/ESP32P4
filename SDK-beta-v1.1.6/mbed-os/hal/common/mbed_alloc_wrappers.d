@@ -1,0 +1,10 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os\hal\common\mbed_alloc_wrappers.cpp
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/mbed_mem_trace.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/mbed_stats.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/toolchain.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/SingletonPtr.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/mbed_assert.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/rtos/rtx/TARGET_CORTEX_M/cmsis_os.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/hal/api/PlatformMutex.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_alloc_wrappers.o: ../mbed-os/rtos/rtos/Mutex.h

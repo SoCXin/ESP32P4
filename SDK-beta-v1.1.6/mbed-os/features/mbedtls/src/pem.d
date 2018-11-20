@@ -1,0 +1,10 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os\features\mbedtls\src\pem.c
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../IoT-OS/src/iot-baidu-ca/include/baidu_ca_mbedtls_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/check_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/pem.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/base64.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/des.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/aes.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/md5.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\mbedtls\src\pem.o: ../mbed-os/features/mbedtls/inc/mbedtls/cipher.h

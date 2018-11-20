@@ -1,0 +1,14 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os\hal\common\mbed_pinmap_common.c
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/hal/pinmap.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/hal/TARGET_RDA/TARGET_UNO_91H/PinNames.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/TARGET_RDA/TARGET_UNO_91H/cmsis.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/TARGET_RDA/TARGET_UNO_91H/RDA5991H.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/core_cm4.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/core_cmInstr.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/core_cmFunc.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/core_cmSimd.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/TARGET_RDA/TARGET_UNO_91H/system_RDA5991H.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/TARGET_RDA/TARGET_UNO_91H/cmsis_nvic.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/targets/cmsis/TARGET_RDA/TARGET_UNO_91H/cmsis.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\hal\common\mbed_pinmap_common.o: ../mbed-os/hal/api/mbed_error.h

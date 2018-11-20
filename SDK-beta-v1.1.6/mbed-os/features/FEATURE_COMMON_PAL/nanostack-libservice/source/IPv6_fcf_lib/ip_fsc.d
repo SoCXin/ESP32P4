@@ -1,0 +1,4 @@
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\IPv6_fcf_lib\ip_fsc.o: ../mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\IPv6_fcf_lib\ip_fsc.c
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\IPv6_fcf_lib\ip_fsc.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\IPv6_fcf_lib\ip_fsc.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ip_fsc.h
+C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\IPv6_fcf_lib\ip_fsc.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h
