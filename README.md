@@ -1,35 +1,34 @@
 ﻿# [RDA](https://github.com/sochub/RDA) 
-
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-
 ####  qitas@qitas.cn
+### [简介](https://github.com/sochub/RDA/wiki)
 
-## [组成](SoC/)
+[锐迪科微电子有限公司](http://www.unisoc.com/)，成立于2004年4月，公司总部位于上海浦东张江高科技园区，2014年紫光集团完成对锐迪科微电子的收购，2018年紫光集团旗下展讯和锐迪科正式完成整合。
 
-#### [docs](docs/)
+![alt text](docs/Overview.png)
 
-包括相关产品资料
+![alt text](docs/M2M.png)
 
-#### [tools](tools/)
+![alt text](docs/GPRS.png)
 
-相关工具
+![alt text](docs/BT.png)
 
-#### [SDK](SDK/)
+![alt text](docs/WIFI.png)
 
-#### [project](project/)
+## [组成](https://github.com/sochub/RDA)
 
----
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
+- [工具](tools/)
 
 ## [收录产品](https://github.com/sochub/RDA) 
 
-#### [RDA8810](https://github.com/sochub/RDA8810.git)
+- [RDA8810](https://github.com/sochub/RDA8810.git)
 
-拥有1GHz处理能力的超级单品机SoC，完全是高性能单片机终极替换者，还有无线通信基带集成
+- [RDA5981](https://github.com/sochub/RDA5981.git) 
 
-####  [RDA5981](https://github.com/sochub/RDA5981.git) 
-
-实惠好用的国产WIFI SoC，具有极低的价格和强劲的性能
-
+##  [SoC开发平台](http://www.qitas.cn)  
 
 
 ---
