@@ -1,4 +1,0 @@
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\cmd_basic.o: ../mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\cmd_basic.c
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\cmd_basic.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\cmd_basic.o: ../mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\rda_console.h
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\cmd_basic.o: ../mbed-os\features\TARGET_RDA\FEATURE_CONSOLE\at.h

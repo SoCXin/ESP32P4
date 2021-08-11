@@ -1,21 +1,32 @@
-﻿# [RDA](https://github.com/SoCXin/RDA) 
+﻿# [ESP32H2](https://github.com/SoCXin/ESP32H2)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## [描述](https://github.com/SoCXin/RDA/wiki) 
+* [Espressif](https://www.espressif.com/): [RISC-V](https://github.com/SoCXin/RISC-V)
+* [L4R3](https://github.com/SoCXin/Level): 96 MHz , [195 CoreMark](https://www.eembc.org/coremark/scores.php)
 
-[锐迪科微电子](http://www.unisoc.com/)有限公司，成立于2004年4月，公司总部位于上海浦东张江高科技园区，2014年紫光集团完成对锐迪科微电子的收购，2018年紫光集团旗下展讯和锐迪科正式完成整合。
-
-![alt text](docs/Overview.png)
-![alt text](docs/WIFI.png)
-![alt text](docs/M2M.png)
+### [xin简介](https://github.com/SoCXin/ESP32H2/wiki)
 
 
-### [Xin收录](https://github.com/SoCXin/RDA)
+[![sites](docs/ESP32H2.png)](https://www.espressif.com/zh-hans/news/ESP32_H2)
 
-* [RDA8910](https://github.com/SoCXin/RDA8910)
-* [RDA8909](https://github.com/SoCXin/RDA8909)
-* [RDA8810](https://github.com/SoCXin/RDA8810)
-* [RDA5981](https://github.com/SoCXin/RDA5981)
 
-###  [SoC芯平台](http://SoC.Xin) 
+#### 关键特性
+
+* RISC-V 32 位单核处理器
+* IEEE 802.15.4 ,支持Thread 和 Zigbee 协议的
+* Bluetooth 5.2 技术
+* 集成了 DC-DC 转换器
+* 26 x GPIO
+
+### [xin资源](https://github.com/SoCXin)
+
+* [参考资源](src/)
+* [相关文档](docs/)
+* [典型应用](project/)
+* [入门教程](https://docs.soc.xin/ESP32H2)
+
+### [选型建议](https://github.com/SoCXin/ESP32H2)
+
+[ESP32H2](https://github.com/SoCXin/ESP32H2) RISC-V单核处理器, 扩展对 Thread 和 Zigbee 协议的支持
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

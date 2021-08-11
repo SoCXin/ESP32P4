@@ -1,5 +1,0 @@
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.o: ../mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.c
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.o: C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\mbed_config.h
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/common_functions.h
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h
-C:\Users\changli\workspace\0807\baidu-iot\TinyDu\BUILD\mbed-os\features\FEATURE_COMMON_PAL\nanostack-libservice\source\libip6string\stoip6.o: ../mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ip6string.h

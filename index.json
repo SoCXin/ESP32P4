@@ -1,0 +1,33 @@
+{
+    "type":"SoC",
+    "name":"ESP32H2",
+    "title": "Espressif ESP32H2 SoC",
+    "description":"Espressif WiFi BLE SoC",
+    "Core": {
+        "num": 1,
+        "type":"RISC-V",
+        "Freq":160,
+        "DMIPS": 600,
+        "CoreMark": 195
+    },
+    "manufacturer": {
+        "vendor":"Espressif",
+        "homepage":"https://www.espressif.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/ESP32H2.git"
+    },
+    "version":"1.0.0",
+    "series":["ESP32H2"],
+    "package":["QFN32"],
+    "peripheral": ["ADC","DAC","USB","OTG","CAN","SDIO","USART","SPI","IIC"],
+    "keywords": [
+        "dev-platform",
+        "RISC-V",
+        "Espressif",
+        "MIPS",
+        "MAC10/100","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
