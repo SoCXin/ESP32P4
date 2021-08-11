@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [Espressif](https://www.espressif.com/): [RISC-V](https://github.com/SoCXin/RISC-V)
-* [L4R3](https://github.com/SoCXin/Level): 96 MHz , [195 CoreMark](https://www.eembc.org/coremark/scores.php)
+* [L4R3](https://github.com/SoCXin/Level): 96 MHz
 
 ### [xin简介](https://github.com/SoCXin/ESP32H2/wiki)
 
