@@ -1,14 +1,14 @@
 {
-    "type":"SoC",
+    "type":"MCU",
     "name":"ESP32-P4",
-    "title": "Espressif ESP32-P4 SoC",
-    "description":"Espressif Wi-Fi/BLE SoC",
+    "title": "Espressif ESP32-P4 MCU",
+    "description":"Espressif RISC-V MCU",
     "Core": {
-        "CoreNum": 1,
+        "CoreNum": 3,
         "Core":"RISC-V",
-        "Fmax":160,
-        "DMIPS": 200,
-        "CoreMark": 500
+        "Fmax":400,
+        "DMIPS": 900,
+        "CoreMark": 2500
     },
     "manufacturer": {
         "vendor":"Espressif",
@@ -20,8 +20,8 @@
     },
     "version":"1.0.0",
     "series":["ESP32-P4"],
-    "package":["QFN40","QFN32"],
-    "peripheral": ["Wi-Fi","BLE","SDIO","UART","SPI","IIC"],
+    "package":["QFN68"],
+    "peripheral": ["MIPI","JPEG","USB HS","SDIO","UART","SPI","IIC"],
     "ESD": {
         "HBM": 2000,
         "CDM": 500
@@ -29,7 +29,7 @@
     "keywords": [
         "RISC-V",
         "Espressif",
-        "Wi-Fi","BLE","ADC","I2S","CAN","I2C","RTC","SPI","UART",
+        "MIPI","JPEG","USB HS","ETH","ADC","I2S","CAN","I2C","RTC","SPI","UART",
         "3.6V","1.8V"
     ]
 }

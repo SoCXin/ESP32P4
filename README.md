@@ -1,7 +1,7 @@
 ﻿# [ESP32-P4](https://doc.soc.xin/ESP32-P4)
 
 * [Espressif](https://www.espressif.com/): [RISC-V](https://github.com/SoCXin/RISC-V)
-* [L3R3](https://github.com/SoCXin/Level): 2x 400 MHz 
+* [L5R5](https://github.com/SoCXin/Level): 2x 400 MHz + 40MHz
 
 ### [简介](https://www.espressif.com/en/news/ESP32-P4)
 
@@ -12,6 +12,7 @@
 #### 关键参数
 
 * 400 MHz RISC-V Dual Core
+* 40 MHz LE RISC-V Core
 
 Open Source SDK [ESP-IDF](https://github.com/espressif/esp-idf)
 
